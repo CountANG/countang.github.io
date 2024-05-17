@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: countang@outlook.com
 description: "这是一个NUAA软工学生的24Fall留学记录以及给NUAA学弟学妹留学建议的B"
 keyword: "留学, 24Fall, NUAA"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://countang.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Enjoy your life. <br> React Team @ Meta"
+sidebar-about-description: "Enjoy your life."
 # sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
