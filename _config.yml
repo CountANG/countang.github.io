@@ -1,9 +1,9 @@
 # Site settings
-title: NUAA CS ABROAD
+title: NUAA MY 24FALL
 SEOTitle: Ang | 24Fall Blog
 header-img: img/home-bg.jpg
 email: countang@outlook.com
-description: "这是一个NUAA软工学生的24Fall留学记录以及给NUAA学弟学妹留学建议的B"
+description: "这是一个NUAA软工er的24Fall留学记录以及给NUAA计算机学弟学妹的留学建议"
 keyword: "留学, 24Fall, NUAA"
 url: "https://countang.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
