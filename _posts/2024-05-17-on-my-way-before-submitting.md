@@ -3,7 +3,7 @@ layout: post
 title: "On My Way Before Submitting"
 subtitle: "Just Myself"
 date: 2024-05-17
-author: "Hux"
+author: "Ang"
 header-img: "img/post-bg-2015.jpg"
 tags: []
 ---
